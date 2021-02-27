@@ -1,1 +1,1 @@
-# py-everyday
+# **PYTHON LESSONS FOR BEGINNERS**
